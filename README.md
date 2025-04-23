@@ -1,11 +1,11 @@
 <div style="text-align:center" align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></div>.
 <h1 align="center">Hi 👋, I'm Bibek Pant</h1>
 
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">(GIS) Web Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pantbibek21" alt="pantbibek21" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and Blockchain.**
+- 🌱 I’m currently exploring **Web GIS Development.**
 
 - 📫 How to reach me **pantbibek21@gmail.com**
 
